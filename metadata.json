@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Dubbing Studio",
+  "description": "Professional video dubbing workspace with real-time speech transcription, translation, voice cloning simulation, timeline synchronization, and comprehensive GPU system monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
